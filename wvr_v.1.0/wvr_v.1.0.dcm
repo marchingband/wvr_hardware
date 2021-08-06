@@ -1,0 +1,135 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM1117-1.8
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-2.5
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-5.0
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP PCM5100
+D 2VRMS DirectPath, 100dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface, TSSOP-20
+K audio dac 2ch 32bit 384kHz
+F http://www.ti.com/lit/ds/symlink/pcm5100.pdf
+$ENDCMP
+#
+$CMP PCM5101
+D 2VRMS DirectPath, 106dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface, TSSOP-20
+K audio dac 2ch 32bit 384kHz
+F http://www.ti.com/lit/ds/symlink/pcm5101.pdf
+$ENDCMP
+#
+$CMP PCM5102
+D 2VRMS DirectPath, 112dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface, TSSOP-20
+K audio dac 2ch 32bit 384kHz
+F http://www.ti.com/lit/ds/symlink/pcm5102.pdf
+$ENDCMP
+#
+$CMP TCMT1100
+D Optocoupler, Vce 70V, CTR 50-600%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1101
+D Optocoupler, Vce 70V, CTR 40-80%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1102
+D Optocoupler, Vce 70V, CTR 63-125%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1103
+D Optocoupler, Vce 70V, CTR 100-200%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1104
+D Optocoupler, Vce 70V, CTR 160-320%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1105
+D Optocoupler, Vce 70V, CTR 50-150%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1106
+D Optocoupler, Vce 70V, CTR 100-300%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1107
+D Optocoupler, Vce 70V, CTR 80-160%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1108
+D Optocoupler, Vce 70V, CTR 130-260%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TCMT1109
+D Optocoupler, Vce 70V, CTR 200-400%, Viso 3750V (RMS)
+K NPN DC
+F http://www.vishay.com/docs/83510/tcmt1100.pdf
+$ENDCMP
+#
+$CMP TLV1117-15
+D 800mA Low-Dropout Linear Regulator, 1.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-18
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-25
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-33
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-50
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+#End Doc Library

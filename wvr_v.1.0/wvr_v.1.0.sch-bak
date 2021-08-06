@@ -767,7 +767,7 @@ Connection ~ 4350 10250
 Wire Wire Line
 	4350 10250 4350 10200
 $Comp
-L Waver-V5-rescue:SW_Push-Switch-Waver-V4-rescue SW1
+L wvr_v.1.0:SW_Push-Switch-Waver-V4-rescue SW1
 U 1 1 5FF68DBE
 P 5750 10250
 F 0 "SW1" H 5750 10535 50  0000 C CNN

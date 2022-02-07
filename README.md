@@ -11,8 +11,8 @@ pinout for WVR :
 
 WVR PIN | MAKERS BOARD PIN | ESP32 GPIO | NOTES  
   
-D0      |       14         |    34      | FTDI RX  
-D1      |       13         |    35      | FTDI TX  
+D0      |       14         |    3       | FTDI RX  
+D1      |       13         |    1       | FTDI TX  
 D2      |       12         |    21      | USB MIDI In (when using USB backpack firmware)  
 D3      |       11         |    19      |  
 D4      |       10         |    18      |  

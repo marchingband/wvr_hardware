@@ -1,0 +1,29 @@
+The build at JLCPCB is successful using SURFACE FINISH = ENIG-RoHS.
+(this is more pricey but this ensure U3: eMMC to be soldered correctly).
+
+Here are the parameters I used:
+Base Material: FR-4
+Layers: 2
+PCB Thickness: 1.6
+Surface Finish: ENIG-RoHS
+Deburring/Edge rounding: No
+Outer Copper Weight: 1
+Gold Fingers: No
+Flying Probe Test: Fully Test
+Castellated Holes: no
+Remove Order Number: No
+Material Type: FR4-Standard Tg 130-140C
+
+GERBER = WVR_GERBER.zip
+BOM = wvr_v.1.0.csv
+CPL (placement) = wvr_v.1.0-top-pos.csv
+
+During SMT order process, parts placement review may show at a wrong scale (it’s a bug from JLC).
+Part orientations are all correct.
+
+GOOD LUCK!
+
+Robin 
+
+March 2022 - atonalcircuits@gmail.com
+

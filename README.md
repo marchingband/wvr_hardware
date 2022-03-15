@@ -2,7 +2,9 @@
 
 Find the Kicad files in their respective folders, more will be added with time.  
 We have done our best to make these files portable, using project specific libraries.  
-These are for Kicad V5.  
+These are for Kicad V5.
+
+In the JLC_PCB folder you can find all the files needed to order WVR BASIC from JLC with assembly. Kindly donated by Robin of Atonal Circuits.
   
 # pinouts
 

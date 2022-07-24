@@ -1,4 +1,4 @@
-16977055104310891
+16998278781162165
 ATSAMD21E18A-MU
 QFN50P500X500X100-33N
 
@@ -46101,6 +46101,13 @@ EG1218
 0
 3
 3
+ESP32-WROVER
+XCVR_ESP32-WROVER
+
+
+0
+39
+39
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -50280,6 +50287,13 @@ solder jumper open
 0
 5
 3
+KiCad-SSD1306_OLED-0
+SSD1306_OLED-0.91-128x32
+
+
+0
+14
+14
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -51386,6 +51400,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MAX98357AETE_T
+QFN50P300X300X80-17N
+
+
+0
+17
+17
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -51521,6 +51542,13 @@ DIN rail adapter universal three M3 clearance holes
 0
 MountingHole
 MountingHole_2.1mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+MountingHole
+MountingHole_2.1mm_NO_GFX
 Mounting Hole 2.1mm, no annular
 mounting hole 2.1mm no annular
 0
@@ -53178,6 +53206,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+P170SP1-QC15BR10K
+P170SP1QC15BR10K
+P170SP1-QC15BR10K-4
+Variable Resistor
+0
+5
+5
 PEC11R-4215F-S0024
 XDCR_PEC11R-4215F-S0024
 
@@ -68704,6 +68739,13 @@ SW_SKRPACE010
 0
 4
 4
+Seeeduino XIAO KICAD
+Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM
+
+
+0
+20
+20
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -75341,6 +75383,13 @@ WVR_LOGO
 0
 0
 Waver
+91AR10KLF
+
+
+0
+3
+3
+Waver
 629104190121
 <B>WR-COM</B><BR> USB 2.0 Type A Horizontal SMT Short Type
 
@@ -75396,6 +75445,48 @@ Through hole pin header THT 1x11 2.54mm single row
 0
 22
 11
+Waver
+CUI_SPKR_4_OHM
+
+
+0
+0
+0
+Waver
+CUI_SPKR_4_OHM_HOLES
+
+
+0
+0
+0
+Waver
+CapTouch_01
+
+
+0
+1
+1
+Waver
+CapTouch_sm
+
+
+0
+1
+1
+Waver
+HARWIN_M20-7910642R
+
+
+0
+6
+6
+Waver
+JS102000SAQN
+
+
+0
+5
+5
 Waver
 JST_THAMES
 

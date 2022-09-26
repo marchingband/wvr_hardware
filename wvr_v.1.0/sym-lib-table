@@ -2,4 +2,5 @@
   (lib (name Waver-V5-rescue)(type Legacy)(uri ${KIPRJMOD}/Waver-V5-rescue.lib)(options "")(descr ""))
   (lib (name CASTELLATED-rescue)(type Legacy)(uri ${KIPRJMOD}/CASTELLATED-rescue.lib)(options "")(descr ""))
   (lib (name wvr_v.1.0)(type Legacy)(uri ${KIPRJMOD}/wvr_v.1.0.lib)(options "")(descr ""))
+  (lib (name wvr_v.1.0-rescue)(type Legacy)(uri ${KIPRJMOD}/wvr_v.1.0-rescue.lib)(options "")(descr ""))
 )

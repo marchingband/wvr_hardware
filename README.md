@@ -6,8 +6,8 @@ These are for Kicad V5.
 
 In the JLC_PCB folder you can find all the files needed to order WVR BASIC from JLC with assembly. Kindly donated by Robin of Atonal Circuits.
 
-There are 3 branches. v2.1 is the newest one, which includes a footprint for the XIAO SAMD21 on the back, and a resistor ont he front to connect the UARTS.
-click "branch" above, and select v2.1
+There are 3 branches. v2.1 is the newest one, which includes a footprint for the XIAO SAMD21 on the back side, and a resistor on the front side to connect the UARTS.
+click "main" above, and select v2.1 to move to this new branch
   
 # pinouts
 

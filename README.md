@@ -22,11 +22,11 @@ D2      |       12         |    21      | USB MIDI In (when using USB backpack f
 D3      |       11         |    19      |  
 D4      |       10         |    18      |  
 D5      |       9          |    5       |  
-D6      |       8          |    0       | no ADC when WIFI active  
-D7      |       7          |    36      | no built-in pullups  
-D8      |       6          |    39      | no built-in pullups  
-D9      |       5          |    34      | no built-in pullups  
-D10     |       4          |    35      | no built-in pullups  
+D6      |       8          |    0       | no ADC when WIFI active, strapping pin for bootloader mode (must be high or floating at boot)  
+D7      |       7          |    36      | no built-in pullups, input only  
+D8      |       6          |    39      | no built-in pullups, input only  
+D9      |       5          |    34      | no built-in pullups, input only  
+D10     |       4          |    35      | no built-in pullups, input only  
 D11     |       3          |    32      |  
 D12     |       2          |    33      |  
 D13     |       1          |    27      | no ADC when WIFI active  

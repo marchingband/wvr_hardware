@@ -31,3 +31,5 @@ D11     |       3          |    32      |
 D12     |       2          |    33      |  
 D13     |       1          |    27      | no ADC when WIFI active  
 </pre>
+
+![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram.png)

@@ -30,6 +30,9 @@ D10     |       4          |    35      | no built-in pullups, input only
 D11     |       3          |    32      |  
 D12     |       2          |    33      |  
 D13     |       1          |    27      | no ADC when WIFI active  
-</pre>
+</pre>  
+  
+# wiring diagram
+Powering with the 5v pin, instead of USB, with breadboard-compatible push button and headphone jack attached.
 
 ![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram.png)

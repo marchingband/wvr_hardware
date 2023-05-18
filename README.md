@@ -39,6 +39,8 @@ When WVR's WiFi is active, current consumption can peak significantly, as the ra
 ![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram.png)
 
 # wiring diagram for midi control
-Example of controlling WVR from a Pi Pico using MIDI. Note that because MIDI is optically isolated, both boards can be powered independantly, by USB, or otherwise. Thus there are no power rails connected in this diagram. It is also OK to power both boards from the same power source, it is just not necissary to do so.
+Example of controlling WVR from a RPi Pico using MIDI. Note that because MIDI is optically isolated, both boards can be powered independantly, by USB, or otherwise. Thus there are no power rails connected in this diagram. It is also OK to power both boards from the same power source, it is just not necissary to do so.  
+Note also, the MIDI signal does not use a ground connection. MIDI is a 2-line protocol, just +5v and TX are needed.  
+Here is a great Arduino library to generate MIDI signals from the RPi Pico: https://github.com/FortySevenEffects/arduino_midi_library
 
 ![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram-midi.png)

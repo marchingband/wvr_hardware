@@ -37,3 +37,8 @@ Example of powering with the 5v pin, instead of the USB jack, with breadboard-co
 When WVR's WiFi is active, current consumption can peak significantly, as the radio consumes a fair bit of current. We recommend a PSU that provides 500mA or more at 5v. Any voltage between 5vDC and 9vDC will work, but keep in mind that higher voltage will result in more heat produced by the voltage regulator, which can get very hot! If you experience brown-outs during the boot sequence, try a PSU with a higher current rating.  
 
 ![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram.png)
+
+# wiring diagram for midi control
+Example of controlling WVR from a Pi Pico using MIDI. Note that because MIDI is optically isolated, both boards can be powered independantly, by USB, or otherwise. Thus there are no power rails connected in this diagram. It is also OK to power both boards from the same power source, it is just not necissary to do so.
+
+![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram-midi.png)

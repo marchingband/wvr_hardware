@@ -45,3 +45,29 @@ Note also, the MIDI signal does not use a ground connection. MIDI is a 2-line pr
 Here is a great Arduino library to generate MIDI signals from the RPi Pico, or most any other microcontroller: https://github.com/FortySevenEffects/arduino_midi_library
 
 ![wvr wiring diagram](https://github.com/marchingband/wvr_hardware/blob/main/images/wiring-diagram-midi.png)
+
+This code snippet for the PiPico sends some basic MIDI messages and flashes the onboard LED.
+```
+#include <Arduino.h>
+#include <MIDI.h>
+
+using Transport = MIDI_NAMESPACE::SerialMIDI<HardwareSerial>;
+Transport serialMIDI(Serial1);
+MIDI_NAMESPACE::MidiInterface<Transport> MIDI((Transport&)serialMIDI);
+
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+  MIDI.begin(MIDI_CHANNEL_OMNI); // Launch MIDI
+}
+
+void loop()
+{
+    MIDI.sendNoteOn(40, 127, 1);    // Send a Note (pitch 40, velocity 127 on channel 1)
+    digitalWrite(LED_BUILTIN, HIGH);
+    delay(1000);                    // Wait for a second
+    MIDI.sendNoteOff(40, 0, 1);     // Stop the note
+    digitalWrite(LED_BUILTIN, LOW);
+    delay(1000);
+}
+```
